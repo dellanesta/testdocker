@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: false
+handle: test
+name: Test
+propagationMethod: all
+siteSettings:
+  d636c4e4-6378-4522-8367-33f665f4a711: # Test Docker
+    enabledByDefault: true
+    hasUrls: true
+    template: test/_entry
+    uriFormat: 'test/{slug}'
+type: channel
