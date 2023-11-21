@@ -1,4 +1,4 @@
-dateModified: 1700553522
+dateModified: 1700559356
 email:
   fromEmail: michele@dellanesta.it
   fromName: 'Test Docker'
@@ -6,8 +6,19 @@ email:
 meta:
   __names__:
     684cc56c-13ac-45b3-807a-2077cfac261a: Common # Common
+    2453ab96-1f4f-4612-ab9b-d1e5203ac208: Homepage # Homepage
+    cb3eb1f1-99e6-4d58-9e62-aae04d9497f5: Homepage # Homepage
     d636c4e4-6378-4522-8367-33f665f4a711: 'Test Docker' # Test Docker
     e8b64a7b-ad2f-426b-ba3c-3cbe058f4746: 'Test Docker' # Test Docker
+plugins:
+  element-api:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
 system:
   edition: solo
   live: true

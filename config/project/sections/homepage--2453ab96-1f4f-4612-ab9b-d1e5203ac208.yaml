@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: false
+handle: homepage
+name: Homepage
+propagationMethod: all
+siteSettings:
+  d636c4e4-6378-4522-8367-33f665f4a711: # Test Docker
+    enabledByDefault: true
+    hasUrls: true
+    template: index.twig
+    uriFormat: __home__
+type: single
