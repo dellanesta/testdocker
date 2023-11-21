@@ -1,0 +1,24 @@
+defaultPlacement: end
+enableVersioning: false
+handle: categorie
+name: Categorie
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+propagationMethod: all
+siteSettings:
+  d636c4e4-6378-4522-8367-33f665f4a711: # Test Docker
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: 'categorie/{slug}'
+structure:
+  maxLevels: null
+  uid: 122d816c-439f-4ff6-bfa9-bcbb6a4eb862
+type: structure

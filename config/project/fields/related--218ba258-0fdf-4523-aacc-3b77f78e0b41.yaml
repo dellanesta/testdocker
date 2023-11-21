@@ -14,10 +14,11 @@ settings:
   minRelations: null
   selectionLabel: null
   showSiteMenu: false
-  source: 'group:0940e175-610b-48f9-98b5-9de48d6c4027' # Categorie
+  sources:
+    - 'section:8cf230db-3044-4cb7-aeb7-ed3578d3485d' # Categorie
   targetSiteId: null
   validateRelatedElements: false
   viewMode: null
 translationKeyFormat: null
 translationMethod: site
-type: craft\fields\Categories
+type: craft\fields\Entries

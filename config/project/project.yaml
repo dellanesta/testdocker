@@ -1,4 +1,4 @@
-dateModified: 1700563150
+dateModified: 1700565808
 email:
   fromEmail: michele@dellanesta.it
   fromName: 'Test Docker'
@@ -6,9 +6,10 @@ email:
 meta:
   __names__:
     04d63fa5-e717-48bf-b8f8-340293fffda5: Test # Test
+    8cf230db-3044-4cb7-aeb7-ed3578d3485d: Categorie # Categorie
     218ba258-0fdf-4523-aacc-3b77f78e0b41: Related # Related
     684cc56c-13ac-45b3-807a-2077cfac261a: Common # Common
-    0940e175-610b-48f9-98b5-9de48d6c4027: Categorie # Categorie
+    943a0c4d-6ca1-44ff-9a54-21837fcee488: Default # Default
     2453ab96-1f4f-4612-ab9b-d1e5203ac208: Homepage # Homepage
     adb5b625-1b31-4da6-81ae-c8f553cdcd9b: Default # Default
     cb3eb1f1-99e6-4d58-9e62-aae04d9497f5: Homepage # Homepage

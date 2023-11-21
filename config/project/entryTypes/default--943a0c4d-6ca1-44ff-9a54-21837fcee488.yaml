@@ -1,6 +1,5 @@
-defaultPlacement: end
 fieldLayouts:
-  1e4459a5-3438-40dc-af1c-956812dc5841:
+  4d8be229-007f-4089-829d-4209a3df545a:
     tabs:
       -
         elementCondition: null
@@ -27,20 +26,21 @@ fieldLayouts:
             tip: null
             title: null
             type: craft\fieldlayoutelements\TitleField
-            uid: 93749609-8a31-4766-accd-ef29173f11d3
+            uid: 94b762c6-5616-4bf9-940f-698d64533a52
             userCondition: null
             warning: null
             width: 100
         name: Content
-        uid: 4cc8a335-79b3-40ac-a5c6-a0fd53469666
+        uid: b54c64eb-29bf-43ea-a2bf-49350eda4984
         userCondition: null
-handle: categorie
-name: Categorie
-siteSettings:
-  d636c4e4-6378-4522-8367-33f665f4a711: # Test Docker
-    hasUrls: true
-    template: null
-    uriFormat: 'categorie/{slug}'
-structure:
-  maxLevels: null
-  uid: f2b223ab-8d40-4862-ac29-898e5c962081
+handle: default
+hasTitleField: true
+name: Default
+section: 8cf230db-3044-4cb7-aeb7-ed3578d3485d # Categorie
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
