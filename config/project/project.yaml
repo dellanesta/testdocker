@@ -1,0 +1,22 @@
+dateModified: 1700553522
+email:
+  fromEmail: michele@dellanesta.it
+  fromName: 'Test Docker'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    684cc56c-13ac-45b3-807a-2077cfac261a: Common # Common
+    d636c4e4-6378-4522-8367-33f665f4a711: 'Test Docker' # Test Docker
+    e8b64a7b-ad2f-426b-ba3c-3cbe058f4746: 'Test Docker' # Test Docker
+system:
+  edition: solo
+  live: true
+  name: 'Test Docker'
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
