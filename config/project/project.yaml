@@ -1,4 +1,4 @@
-dateModified: 1703169176
+dateModified: 1703173327
 email:
   fromEmail: michele@dellanesta.it
   fromName: 'Test Docker'
@@ -13,6 +13,7 @@ meta:
     684cc56c-13ac-45b3-807a-2077cfac261a: Common # Common
     943a0c4d-6ca1-44ff-9a54-21837fcee488: Default # Default
     2453ab96-1f4f-4612-ab9b-d1e5203ac208: Homepage # Homepage
+    06350fbe-8b46-4ebf-bd0d-bb21379f39da: 'Test 2023' # Test 2023
     adb5b625-1b31-4da6-81ae-c8f553cdcd9b: Default # Default
     cb3eb1f1-99e6-4d58-9e62-aae04d9497f5: Homepage # Homepage
     d636c4e4-6378-4522-8367-33f665f4a711: 'Test Docker' # Test Docker
@@ -29,6 +30,10 @@ plugins:
     edition: standard
     enabled: true
     schemaVersion: 5.1.0.0
+  freeform:
+    edition: lite
+    enabled: true
+    schemaVersion: 4.2.7
   redactor:
     edition: standard
     enabled: true

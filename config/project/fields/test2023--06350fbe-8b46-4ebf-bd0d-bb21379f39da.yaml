@@ -1,0 +1,40 @@
+columnSuffix: klvaguxf
+contentColumnType: text
+fieldGroup: 684cc56c-13ac-45b3-807a-2077cfac261a # Common
+handle: test2023
+instructions: null
+name: 'Test 2023'
+searchable: false
+settings:
+  addRowLabel: 'Add a row'
+  columnType: text
+  columns:
+    __assoc__:
+      -
+        - col1
+        -
+          __assoc__:
+            -
+              - heading
+              - titolo
+            -
+              - handle
+              - titolo
+            -
+              - width
+              - ''
+            -
+              - type
+              - singleline
+  defaults:
+    -
+      __assoc__:
+        -
+          - col1
+          - ''
+  maxRows: null
+  minRows: null
+  staticRows: false
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Table
