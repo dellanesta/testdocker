@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9d4f84d8d1739992f0d25adf8b162f05",
+    "content-hash": "0c60c5f1eb8f564cea664e3466c03b59",
     "packages": [
         {
             "name": "cakephp/core",
@@ -768,11 +768,11 @@
         },
         {
             "name": "craftcms/feed-me",
-            "version": "5.2.0",
+            "version": "5.3.0",
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/feed-me/zipball/98dcf59b51107bfff9f720e361cef61773cb4e3d",
-                "reference": "98dcf59b51107bfff9f720e361cef61773cb4e3d",
+                "url": "https://api.github.com/repos/craftcms/feed-me/zipball/1d774e0c85e20c1eb57710de659510ed9a3296ea",
+                "reference": "1d774e0c85e20c1eb57710de659510ed9a3296ea",
                 "shasum": ""
             },
             "require": {
@@ -822,7 +822,7 @@
                 "docs": "https://docs.craftcms.com/feed-me/v4/",
                 "rss": "https://github.com/craftcms/feed-me/commits/master.atom"
             },
-            "time": "2023-07-06T23:25:38+00:00"
+            "time": "2023-11-28T00:35:47+00:00"
         },
         {
             "name": "craftcms/html-field",
@@ -5823,5 +5823,5 @@
     "platform-overrides": {
         "php": "8.0.2"
     },
-    "plugin-api-version": "2.6.0"
+    "plugin-api-version": "2.3.0"
 }
